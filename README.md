@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:c2e59c,100:64b3f4&text=HelloWorld!&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=I'm%20WISDOM127&strokeWidth=0&rotate=0&fontSize=60&fontColor=f7f5f5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:c2e59c,100:64b3f4&text=HelloWorld!&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=I'm%20WISDOM127&strokeWidth=0&rotate=0&fontSize=60&fontColor=f7f5f5"/>
 
 ## 🔎About Me
 Java, SpringBoot, SpringDataJPA를 이용해 Spring MVC 구조 개발합니다.<br/>
@@ -39,4 +39,5 @@ JavaScript, HTML/CSS, React 로 프론트엔드 개발도 가능합니다.<br/>
 Email : wisdom_127@naver.com <br/> 
 Blog : https://blog.naver.com/wisdom1234567
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:c2e59c,100:64b3f4&section=footer&textBg=false&fontAlign=50&animation=twinkling&desc=Thankyou&strokeWidth=0&rotate=0&fontSize=65&fontColor=f7f5f5"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:c2e59c,100:64b3f4&section=footer&textBg=false&fontAlign=50&animation=twinkling&desc=Thankyou&strokeWidth=0&rotate=0&fontSize=65&fontColor=f7f5f5"/>
+-->
