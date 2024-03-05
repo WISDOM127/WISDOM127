@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:c2e59c,100:64b3f4&text=HelloWorld!&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=I'm%20WISDOM127&strokeWidth=0&rotate=0&fontSize=60&fontColor=f7f5f5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:c2e59c,100:64b3f4&text=你好世界!&section=header&textBg=false&fontAlign=50&animation=twinkling&desc=I'm%20WISDOM127&strokeWidth=0&rotate=0&fontSize=60&fontColor=f7f5f5"/>
 
 ## 🔎About Me
 Java, SpringBoot, SpringDataJPA를 이용해 Spring MVC 구조 개발합니다.<br/>
