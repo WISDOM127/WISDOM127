@@ -38,36 +38,38 @@ JavaScript, HTML/CSS, React 로 프론트엔드 개발도 가능합니다.<br/>
 
 
 ## Education
-교육기관 : 코리아 IT 아카데미
-교육과정 : [국비] Spring 기반 핀테크 개발자 양성과정 
-교육기간 : 2023.08. 23 ~ 2024. 02. 28 (963시간)
+교육기관 : 코리아 IT 아카데미 <br/>
+교육과정 : [국비] Spring 기반 핀테크 개발자 양성과정 <br/>
+교육기간 : 2023.08. 23 ~ 2024. 02. 28 (963시간)<br/>
+<br/>
+교육기간 중 완성 프로젝트 총 2개<br/>
+<br/>
+### 1. Semi Project
+ 프로젝트 이름 : 21VIP CRM System<br/>
+ 프로젝트 컨셉 : 백화점 VIP 고객관리 CRM 웹 프로그램<br/>
+ 작업 기간 : 2023.11.27~2023.12.21<br/>
+ 작업 인원 : 4인<br/>
+ 기술 스택 :<br/>
+ - SpringBoot 2.7.17, JPA, Hibernate, Oracle
+ - jQuery, Thymeleaf, Javascript, HTML5, CSS, Bootstrap
 
-교육기간 중 완성 프로젝트 총 2개
-1. Semi Project
-   프로젝트 이름 : 21VIP CRM System
-   프로젝트 컨셉 : 백화점 VIP 고객관리 CRM 웹 프로그램
-   작업 기간 : 2023.11.27~2023.12.21
-   작업 인원 : 4인
-   기술 스택 :
-   SpringBoot 2.7.17, JPA, Hibernate, Oracle
-   jQuery, Thymeleaf, Javascript, HTML5, CSS, Bootstrap
+  상세보기 : https://github.com/WISDOM127/SemiProject_21vipCRM<br/>
+<br/>
+### 2. Final Project
+   프로젝트 이름 : RightWay<br/>
+   프로젝트 컨셉 : 인천공항 출국장 혼잡도 및 항공편 조희 웹 서비스<br/>
+   작업 기간 : 2024.01.23~2024.02.18<br/>
+   작업 인원 : 1인 (개인프로젝트)<br/>
+   기술 스택 :<br/>
+  - SpringBoot 3.2.1, JPA, Hibernate, Oracle, AWS
+  - React, Javascript, HTML5, CSS, MUI(Material UI React component library)
 
-   상세보기 : https://github.com/WISDOM127/SemiProject_21vipCRM
-   
-2. Final Project
-   프로젝트 이름 : RightWay
-   프로젝트 컨셉 : 인천공항 출국장 혼잡도 및 항공편 조희 웹 서비스
-   작업 기간 : 2024.01.23~2024.02.18
-   작업 인원 : 1인 (개인프로젝트)
-   기술 스택 :
-   SpringBoot 3.2.1, JPA, Hibernate, Oracle, AWS
-   React, Javascript, HTML5, CSS, MUI(Material UI React component library)
+   상세보기 : https://github.com/WISDOM127/FinalBackend_boot<br/>
 
-   상세보기 : https://github.com/WISDOM127/FinalBackend_boot
+<br/>
 
 
-
-### 🤝 Contact
+## 🤝 Contact
 Email : wisdom_127@naver.com <br/> 
 Blog : https://blog.naver.com/wisdom1234567
 
