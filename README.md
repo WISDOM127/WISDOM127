@@ -64,7 +64,9 @@ JavaScript, HTML/CSS, React 로 프론트엔드 개발도 가능합니다.<br/>
   - SpringBoot 3.2.1, JPA, Hibernate, Oracle, AWS
   - React, Javascript, HTML5, CSS, MUI(Material UI React component library)
 
-   상세보기 : https://github.com/WISDOM127/FinalBackend_boot<br/>
+   상세보기 :
+   https://github.com/WISDOM127/Final-Frontend_react<br/>
+   https://github.com/WISDOM127/FinalBackend_boot<br/>
 
 <br/>
 
